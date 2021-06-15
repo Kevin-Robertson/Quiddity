@@ -1,4 +1,4 @@
-# Quiddity# Quiddity
+# Quiddity
 
 Quiddity is a work in progress C# miscellaneous protocol library meant for infosec testing/defense. The library contains classes for packet segment structures, protocol functions, and listeners. This library is currently being developed as part of Inveigh and other, unreleased projects. It's likely to go through major changes.
 
